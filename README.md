@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-## 🚀 Skills & Frameworks
+# 🚀 Skills & Frameworks
 
 <p align="left">
   <!-- Programming Languages -->
